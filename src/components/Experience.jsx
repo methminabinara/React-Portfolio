@@ -1,4 +1,3 @@
-import React from "react";
 import { EXPERIENCES } from "../constants";
 import { space } from "postcss/lib/list";
 
